@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm <strong>Ayas</strong></h1>
 
-<!--
-**aliayass/aliayass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=.NET+Developer;Computer+Engineering+Student;Backend+Enthusiast;Clean+Code+%26+Modern+Architecture" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+🚀 .NET ekosisteminde kendini geliştirmeye odaklanan bir yazılım geliştiricisiyim.  
+🎓 Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
+💡 Backend, API geliştirme ve modern yazılım mimarileriyle ilgileniyorum.
+
+---
+
+## 🔧 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github,visualstudio" />
+</p>
+
+---
+
+## 🛠️ Areas of Focus
+- Backend Development  
+- API Design & Integration  
+- Clean / Layered Architecture  
+- Entity Framework Core  
+- PostgreSQL  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliayass&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliayass&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🎯 Goals
+🌱 Kendimi sürekli geliştirerek modern .NET mimarilerinde uzmanlaşmak  
+🔥 Profesyonel backend projeleri üretmek  
+
+---
+
+<p align="center">
+  ⭐️ If you like my work, feel free to star my repositories!
+</p>
