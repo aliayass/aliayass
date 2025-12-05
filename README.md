@@ -15,7 +15,7 @@
 
 ## 🔧 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,mssql,html,css,js,git,github,visualstudio" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 - API Design & Integration  
 - Clean / Layered Architecture  
 - Entity Framework Core  
-- PostgreSQL  
+- PostgreSQL & MSSQL  
 
 ---
 
