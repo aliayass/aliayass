@@ -8,7 +8,7 @@
 
 ## 🧩 About Me
 🚀 .NET ekosisteminde kendini geliştirmeye odaklanan bir yazılım geliştiricisiyim.  
-🎓 Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
+🎓 Fırat Üniversitesi Bilgisayar Mühendisliği mezunuyum.  
 💡 Backend, API geliştirme ve modern yazılım mimarileriyle ilgileniyorum.
 
 ---
